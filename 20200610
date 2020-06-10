@@ -1,15 +1,14 @@
-https://blog.golang.org/slices-intro
-https://blog.golang.org/defer-panic-and-recover
-
-# 
-https://qiita.com/yanap/items/5f1085a828bdef8ab310
-https://ja.wikipedia.org/wiki/ニュートン法
-
+- https://blog.golang.org/slices-intro
+- https://golang.org/doc/effective_go.html#slices
+- https://blog.golang.org/defer-panic-and-recover
 
 Todo next: 
-- https://golang.org/doc/effective_go.html#slices
 - tour of go
 - https://docs.google.com/presentation/d/1doIXbRLPsgBxYikO6G6OkxbL7L5blcxCYuV5Z7YMgNs/edit#slide=id.g4f417182ce_0_80
 
 - do rightcode tutorial
 - docker kubernetes chapter.4
+
+# check
+https://qiita.com/yanap/items/5f1085a828bdef8ab310
+https://ja.wikipedia.org/wiki/ニュートン法
