@@ -20,7 +20,11 @@ go env GOPATH
 mv helloworld ~/gopath/src/
 
 
-HTTP Google Cloud Functions in Go
+TODO
+
+1. https://cloud.google.com/go/getting-started?hl=ja
+
+2. HTTP Google Cloud Functions in Go
 https://codelabs.developers.google.com/codelabs/cloud-functions-go-http/index.html?index=..%2F..index#0
 
-kubernetes
+3. kubernetes
