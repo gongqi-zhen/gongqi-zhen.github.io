@@ -11,3 +11,6 @@ TODO
 
 3. Writing Web Application
 https://golang.org/doc/articles/wiki/
+
+4. Cloud Function to Automate CSV data import into Google Sheets
+https://codelabs.developers.google.com/codelabs/cloud-function2sheet/index.html?index=..%2F..index#0
