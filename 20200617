@@ -2,6 +2,10 @@
 https://golang.org/doc/articles/wiki/
 
 # todo
+- https://cloud.google.com/go/getting-started?hl=ja
+- kubernetes
+- Cloud Function to Automate CSV data import into Google Sheets
+https://codelabs.developers.google.com/codelabs/cloud-function2sheet/index.html?index=..%2F..index#0
 
 
 # check
