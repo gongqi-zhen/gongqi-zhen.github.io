@@ -1,2 +1,5 @@
 * Achieve continuous deployment to Google Kubernetes Engine (GKE) with Cloud Build
 https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-deploy/index.html?index=..%2F..index#0
+
+* Hello Istio Codelab with GKE
+https://codelabs.developers.google.com/codelabs/cloud-hello-istio/index.html?index=..%2F..index#0
