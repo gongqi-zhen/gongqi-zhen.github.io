@@ -4,7 +4,6 @@ https://codelabs.developers.google.com/codelabs/cloud-builder-gke-continuous-dep
 
 todo: cleanup
 
-
 * Create a Managed MySQL database with Cloud SQL
 https://codelabs.developers.google.com/codelabs/cloud-create-cloud-sql-db/index.html#8
 
@@ -14,3 +13,5 @@ https://codelabs.developers.google.com/codelabs/connecting-to-cloud-sql-with-clo
 
 * Hello Istio Codelab with GKE
 https://codelabs.developers.google.com/codelabs/cloud-hello-istio/index.html?index=..%2F..index#0
+(resource short : assign resource)
+
